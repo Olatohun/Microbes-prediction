@@ -42,5 +42,5 @@ The data was gotten from the Data sprint 71 hackathon on DPhi titled Microbes Cl
 Three classification models were run on the data, including Gradient Boosting Classifier, Decision Tree Classifier and Random Forest Classifier. The data was splitted into X and y before scaling. The models were run on both the scaled and unscaled data with a ratio of 70:30 and performance was reviewed using the accuracy score metric.
 
 
-Results
+### Results
 The output of the prediction result is in ‘microorganisms_predictions.csv’ above and in the code as well.
