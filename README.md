@@ -20,15 +20,11 @@ Python V-3.
 
 Python Libraries:
 
-Scikit Learn. 
-
-Pandas. 
-
-Numpy.
-
-Seaborn
-
-Matplotlib.
+- Scikit Learn. 
+- Pandas. 
+- Numpy.
+- Seaborn
+- Matplotlib.
 
 
 
